@@ -7,10 +7,8 @@
 - 🚀 I enjoy turning UI/UX designs into real products and collaborating on challenging projects that solve real-world problems.
 - 🤝 I’m open to collaborating on React-based projects, frontend mentoring, or building tools that help others learn and grow.
 
-📫 How to reach me:
-- Email: [arunprasanthm7@gmail.com](mailto:arunprasanthm7@gmail.com)
-- LinkedIn: [arunprasanthm](https://www.linkedin.com/in/arunprasanthm/)
-- Portfolio: [arunprasanth.vercel.app](https://arunprasanth.vercel.app/)
+📫How to reach me: You can reach me via [arunprasanthm7@gmail.com](mailto:arunprasanthm7@gmail.com),[LinkedIn](https://www.linkedin.com/in/arunprasanthm/), or [view my portfolio](https://arunprasanth.vercel.app/).
+
 ---
 
 ⭐ Fun fact: I love clean code, reusable components, and a good dark theme!
